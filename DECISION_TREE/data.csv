@@ -1,0 +1,11 @@
+Humidity,Wind,Temperature,Rain
+High,Strong,Hot,No
+High,Weak,Hot,No
+High,Strong,Mild,Yes
+Medium,Weak,Cool,Yes
+Low,Weak,Cool,Yes
+Low,Strong,Cool,No
+Medium,Strong,Mild,Yes
+High,Weak,Mild,No
+Low,Strong,Hot,Yes
+Medium,Weak,Mild,Yes
