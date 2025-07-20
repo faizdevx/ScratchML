@@ -38,3 +38,6 @@ then the functions we apply
 6) final line 
 
 7) thats it dude
+
+
+here we got many lines and made a hyperplane of it 
